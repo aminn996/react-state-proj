@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import profilePic from "./messi.jpg"; // Make sure messi.jpg is in src/
+import profilePic from "./messi.jpg"; 
 
 class App extends Component {
   constructor(props) {
